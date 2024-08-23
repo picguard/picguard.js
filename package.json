@@ -2,6 +2,13 @@
   "name": "picguard",
   "version": "1.0.0-rc.0",
   "description": "Your pictures, your signature.",
+  "keywords": [
+    "watermark",
+    "assistant",
+    "watermarkassistant",
+    "watermark-assistant",
+    "picguard"
+  ],
   "homepage": "https://github.com/picguard/picguard.js",
   "bugs": "https://github.com/picguard/picguard.js/issues",
   "repository": {
