@@ -24,6 +24,12 @@ const options: Options = {
 export default defineConfig([
   {
     ...options,
+    format: ["cjs"],
+    entry: ["src/cli.ts"],
+    dts: false,
+  },
+  {
+    ...options,
     entry: ["src/index.ts"],
     tsconfig: "./tsconfig.json",
   },
